@@ -1,0 +1,61 @@
+.g{
+    color: blue;
+    text-decoration:line-through;
+    background-color: rgb(230, 220, 220);
+    font-size:medium;
+    font-weight:800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float:none;
+    font-style: inherit;
+    flex-direction:column-reverse;
+    font-display:initial;
+    grid-auto-flow: dense;
+    scroll-padding-top:unset;
+    row-gap:inherit;
+    
+}
+button{
+    color:crimson;
+    background-color:darkgrey;
+}
+.a{
+    color:chartreuse;
+    background-color: rgb(236, 229, 229);
+font-size:x-large;
+text-decoration:underline;
+}
+.n{
+    color:crimson;
+    background-color:darkgrey;
+    font-size: larger;
+}
+.e{
+    color:mediumseagreen;
+    background-color:darkgrey;
+    font-size:medium;
+}
+.s{
+    color:black;
+    background-color:darkgrey;
+    font-size: xx-small;
+}
+.h{
+    color:aqua;
+    background-color:azure;
+    font-size: xx-large;
+}
+.p{
+    color :blueviolet;
+    background-color:darkgrey;
+}
+.e{
+    color:cornflowerblue;
+    background-color:darkgrey;
+}
+.d{
+    color:fuchsia;
+    background-color:aliceblue;
+}
+.i{
+    color:fuchsia;
+    background-image:image-set(https://www.bing.com/images/search?view=detailV2&ccid=YF2JeEbH&id=F5E3D78272A41D627110105171EC593B8FAF1BC7&thid=OIP.YF2JeEbHbKob5r5bc0VK6gHaEz&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.605d897846c76caa1be6be5b73454aea%3frik%3dxxuvjztZ7HFREA%26riu%3dhttp%253a%252f%252fwww.cricket.com.au%252f-%252fmedia%252fNews%252f2017%252f10%252f29Kohliton.ashx%253fh%253d1556%2526w%253d2400%2526la%253den%26ehk%3dB0y8kdIsyD8PcdMykqnAvvA1D9ArVd4YVKy248zvCZs%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1556&expw=2400&q=kohli&simid=607991645278591588&FORM=IRPRST&ck=EE5250075DECD630E42870F1D0E6915E&selectedIndex=2);
